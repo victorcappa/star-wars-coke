@@ -28,11 +28,10 @@ An immersive WebAR experience that invites users to choose - from Jedi, Sith, Pi
 ## Visuals
 
 ![splash 1](https://github.com/user-attachments/assets/a1eb4dcc-196a-4792-af22-5b322bd825d7)
-![splash 2](https://github.com/user-attachments/assets/de683e5a-50aa-4546-b88d-a97fcb11888b)
 
+---
 
-
-
+![splash 2](https://github.com/user-attachments/assets/48eb3eb3-af45-4617-a27a-c2ecbcb78ae3)
 
 
 ---
