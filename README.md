@@ -39,7 +39,7 @@ An immersive WebAR experience that invites users to choose - from Jedi, Sith, Pi
 
 ## About The Project
 
-This mobile experience transforms Coca-Cola cans and bottles into portals for augmented reality. Users scroll through a cinematic introduction, select a Star Wars character, and launch an interactive hologram in the real world — all directly in their browser.
+This mobile experience transforms Coca-Cola cans and bottles into portals for augmented reality. Users scroll through a cinematic introduction, select a Star Wars character, record a video and audio message, and launch an interactive hologram in the real world — all directly in their browser.
 
 Built using Three.js and React, and powered by 8th Wall’s AR engine, the project merges storytelling and real-time 3D to create a fluid and responsive interface that feels more like a game than a webpage.
 
