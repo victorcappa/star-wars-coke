@@ -54,9 +54,6 @@ Built using Three.js and React, and powered by 8th Wall’s AR engine, the proje
 * **Sound, Motion, and Visual Effects:** The experience layers audio cues and subtle post-processing to elevate immersion.
 
 ---
-Great — your current version is solid and clear. Here's how you can integrate a **“Challenges”** section that highlights your **technical decisions and problem-solving** — keeping the language accessible, but still showing your skills.
-
----
 
 ## Challenges
 
